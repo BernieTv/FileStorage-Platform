@@ -1,7 +1,5 @@
 <img src="https://res.cloudinary.com/bekzod-tiny-house/image/upload/v1755504867/Screenshot_from_2025-08-18_13-13-06_udlvmy.png" alt="Project Banner" />
 
-<br/>
-
 # 🌟 FileStorage Platform
 
 A **next‑gen cloud storage solution** where speed, security, and simplicity collide. 🚀 Built with the **MERN Stack**, this platform lets you upload, manage, and share files effortlessly while packing in serious power with AWS S3, JWT auth, analytics, and a slick modern UI. Perfect for devs, teams, or anyone who vibes with **secure & scalable file management**.
